@@ -23,3 +23,11 @@ while(num<=10){
     console.log("2 *",num,  "=",num*num)
     num++
 }
+
+let num1 = 1
+while(num1<=50){
+    if(num1%2==0)
+        console.log(num1)
+        num1++
+}
+
